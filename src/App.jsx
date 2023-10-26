@@ -11,7 +11,7 @@ import NextButton from "./NextButton";
 import Footer from "./Footer";
 import Timer from "./Timer";
 import data from "../data/questions.json";
-console.log(data.questions);
+// console.log(data.questions);
 const initialState = {
   questions: [],
   allQuestions: [],
@@ -126,7 +126,7 @@ function App() {
     },
     dispatch,
   ] = useReducer(reducer, initialState);
-  console.log(questions);
+  // console.log(questions);
 
   useEffect(function () {
     async function fetchQuestions() {

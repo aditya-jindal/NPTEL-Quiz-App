@@ -1,4 +1,5 @@
 // import Option from "./Option"
+// import { v4 as uuidv4 } from "uuid";
 
 function Question({ question, dispatch, userAnswer }) {
   return (
@@ -8,13 +9,13 @@ function Question({ question, dispatch, userAnswer }) {
         {question.options.map((option, i) => (
           <button
             className={`btn btn-option ${
-              (userAnswer) &&
+              userAnswer &&
               `${question.correctOption === i ? "correct" : "wrong"}`
             }
-               ${i === userAnswer-1 && "answer"}`}
-            disabled={(userAnswer)}
+               ${i === userAnswer - 1 && "answer"}`}
+            disabled={userAnswer}
             onClick={() => dispatch({ type: "submitAns", payload: i })}
-            key={question.question+option}
+            key={i}
           >
             {option}
           </button>
