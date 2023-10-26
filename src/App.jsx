@@ -79,7 +79,7 @@ const reducer = function (state, action) {
     case "reset":
       return {
         ...initialState,
-        questions: shuffleArray(state.questions),
+        questions: shuffleArray(state.allQuestions).slice(0, 50),
         allQuestions: state.allQuestions,
         status: "ready",
         highScore: state.highScore,
