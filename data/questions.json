@@ -198,7 +198,7 @@
         "disguised competition",
         "harmonious competition"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -740,6 +740,12 @@
       "points": 10
     },
     {
+      "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
+      "options": ["translocation", "migration", "dispersal", "drifting"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
       "question": "Which of these is correct?",
       "options": [
         "Fundamental niche > Realised niche",
@@ -832,6 +838,17 @@
         "reduced fecundity"
       ],
       "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "A pest population is called controlled when",
+      "options": [
+        "it is not increasing",
+        "it is decreasing",
+        "it is not causing some economic damage",
+        "it is not causing excessive economic damage"
+      ],
+      "correctOption": 3,
       "points": 10
     },
     {
@@ -959,7 +976,13 @@
       "points": 10
     },
     {
-      "question": "According to Malthusian mode",
+      "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management has built several artificial water holes for animals, and fills them up regularly with tankers. In the context of climate change, such an action would be called",
+      "options": ["adaptation", "mitigation", "deceleration", "maladaptation"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "According to Malthusian model",
       "options": [
         "Population grows in geometric progression, food supply increases in arithmetic progression",
         "Population grows in geometric progression, food supply increases in geometric progression",
@@ -974,7 +997,7 @@
       "options": [
         "environmental sustainability",
         "economic sustainability",
-        "economic sustainability",
+        "trans-boundary sustainability",
         "social sustainability"
       ],
       "correctOption": 2,
@@ -1029,6 +1052,12 @@
         "high birth rate, high death rate to low birth rate, high death rate"
       ],
       "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The book 'An Essay on the Principle of Population' was written by",
+      "options": ["Darwin", "Malthus", "Spencer", "Owens"],
+      "correctOption": 1,
       "points": 10
     },
     {
