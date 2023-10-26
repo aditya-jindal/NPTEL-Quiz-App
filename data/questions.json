@@ -1,6 +1,246 @@
 {
   "questions": [
     {
+      "question": "Which of these is not a step in natural selection?",
+      "options": ["variation", "underpopulation", "struggle for existence", "survival of the fittest"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a characteristic of fitness?",
+      "options": ["Fitness is environment-specific.", "Fitness is species-specific.", "Higher reproductive rate means higher fitness.", "Fitness should be measured across several generations"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Ecology is the scientific study of ___ that determine the distribution and abundance of organisms.",
+      "options": ["statics", "interactions", "dynamics", "habitat"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a characteristic of fitness?",
+      "options": ["Fitness is environment-specific.", "Fitness is species-specific.", "Fitness works on traits such as size and speed.", "Fitness should be measured across several generations."],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "In the Greek word root of Ecology, Oikos refers to",
+      "options": ["household", "preservation", "environment", "study"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"Enquiry into plants\" is a book written by",
+      "options": ["Theophrastus", "Linnaeus", "Malthus", "Humboldt"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In the Greek word root of Ecology, logos refers to",
+      "options": ["household", "preservation", "environment", "study"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a kind of selection",
+      "options": ["directional", "stochastic", "disruptive", "stabilising"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who amongst these is considered the father of Biogeography?",
+      "options": ["Theophrastus", "Linnaeus", "Malthus", "Humboldt"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Ecology is the scientific study of interactions among organisms and their ___. ",
+      "options": ["habitat", "niche", "environment", "population"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Hierarchy emerges almost inevitably through a wide variety of evolutionary processes, for the simple reason that hierarchical structures are ___",
+      "options": ["perfect", "imperfect", "stable", "unstable"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The mitochondrion is a / an",
+      "options": ["Sub-cellular organelle", "Cell", "Tissue", "Organ"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The hierarchical system was given by",
+      "options": ["Simon", "Watson", "Hutchinson", "Humboldt"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "There is more biodiversity in areas with",
+      "options": ["less competition, less predation", "less competition, more predation", "more competition, more predation", "more competition, less predation"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "\"groups of actually or potentially interbreeding natural populations, which are reproductively isolated from other such groups\" is a definition of",
+      "options": ["cells", "species", "ecosystems", "biomes"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "\"the diversity that exists within an ecosystem\" is",
+      "options": ["alpha (α) biodiversity", "beta (β) biodiversity", "gamma (γ) biodiversity", "delta (δ) biodiversity"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"the diversity that exists among different geographies\" is",
+      "options": ["alpha (α) biodiversity", "beta (β) biodiversity", "gamma (γ) biodiversity", "delta (δ) biodiversity"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The emergent principle can be stated as",
+      "options": ["Whole = sum of parts", "Whole < sum of parts", "Whole > sum of parts", "None of these"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The laboratory approach to Ecology uses",
+      "options": ["equations", "models", "observations", "experiments"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "For more biodiversity, the level of disturbance should be",
+      "options": ["less", "intermediate", "more", "none of these"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Egrets with buffaloes are an example of",
+      "options": ["colony", "commensalism", "protocooperation", "allelopathy"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "I observe a monkey take a tick out of another monkey's head and eat it. In the social context, this behaviour would be called",
+      "options": ["tick hunting", "auto grooming", "allo grooming", "foraging"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Birds on giraffe are an example of",
+      "options": ["colony", "commensalism", "protocooperation", "allelopathy"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Harmonious interactions occur where",
+      "options": ["at least one participant is benefited", "at least one participant is unharmed", "both participants are benefitted", "both participants are unharmed"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "I observe a bird take a tick out of another bird's head and eat it. In the social context, this behaviour would be called",
+      "options": ["tick hunting", "auto grooming", "allo grooming", "foraging"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The interaction between exotic shrubs and trees through the action of seed predators is an example of",
+      "options": ["infraspecific competition", "apparent competition", "disguised competition", "harmonious competition"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Trampling of grass due to the movement of animals is an example of",
+      "options": ["mutualism", "amensalism", "commensalism", "protocooperation"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The scientific study of animal behaviour is called",
+      "options": ["behaviourism", "ecology", "ethology", "prey-predator dynamics"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "An inventory of behaviours exhibited by an animal during a behaviour exercise is called",
+      "options": ["ecogram", "ethogram", "behaviourogram", "animalogram"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Hamilton's rule can be stated as",
+      "options": ["rB < C", "rB > C", "rB = C", "rB + C = 0"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "If we all became vegetarians, we'll be able to support our large populations. This can be explained through",
+      "options": ["10% rule", "1% rule", "trophic cascade", "biodiversity"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Trees → Birds → Parasites → Hyperparasites represents",
+      "options": ["upright pyramid of numbers", "inverted pyramid of numbers", "spindle pyramid of numbers", "dumb-bell pyramid of numbers"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Net primary productivity is given by",
+      "options": ["APAR × LUE", "APAR + LUE", "APAR - LUE", "APAR / LUE"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "At the compensation point",
+      "options": ["photosynthesis = respiration", "photosynthesis < respiration", ". photosynthesis > respiration", "photosynthesis = 0"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. As we move up the food chain,",
+      "options": ["available energy decreases", "available energy increases", "available energy remains same", "available energy is zero everywhere"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain",
+      "options": ["more number of hawks than grasshoppers can be supported", "more number of grasshoppers than hawks can be supported", "equal number of hawks and grasshoppers can be supported", "none of these"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Tree → Frugivorous birds → Hawk represents",
+      "options": ["upright pyramid of numbers", "inverted pyramid of numbers", "spindle pyramid of numbers", "dumb-bell pyramid of numbers"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain,",
+      "options": ["hawk is producer", "hawk is consumer and carnivore", "hawk is consumer and herbivore", "hawk is decomposer"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Glacial lakes are typical examples of",
+      "options": ["eutrophic lakes", "hypereutrophic lake", "oligotrophic lakes", "mesotrophic lakes"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain,",
+      "options": ["frog is producer", "frog is consumer and carnivore", "frog is consumer and herbivore", "frog is decomposer"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
       "question": "The logistic growth equation, when plotted, appears",
       "options": ["I shaped", "J shaped", "S shaped", "O shaped"],
       "correctOption": 2,
