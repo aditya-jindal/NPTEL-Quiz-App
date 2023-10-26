@@ -193,12 +193,12 @@
     {
       "question": "The interaction between exotic shrubs and trees through the action of seed predators is an example of",
       "options": [
-        "infraspecific competition",
+        "intraspecific competition",
         "apparent competition",
         "disguised competition",
         "harmonious competition"
       ],
-      "correctOption": 0,
+      "correctOption": 1,
       "points": 10
     },
     {
