@@ -1,0 +1,326 @@
+{
+  "questions": [
+    {
+      "question": "The logistic growth equation, when plotted, appears",
+      "options": ["I shaped", "J shaped", "S shaped", "O shaped"],
+      "correctOption": 2,
+      "points": 10
+    },
+
+    {
+      "question": "Which of these is not a step in natural selection",
+      "options": [
+        "variation",
+        "underpopulation",
+        "struggle for existence",
+        "survival of the fittest"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The book 'An Essay on the Principle of Population' was written by",
+      "options": ["Darwin", "Malthus", "Spencer", "Owens"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is correct?",
+      "options": [
+        "Fundamental niche > Realised niche",
+        "Fundamental niche = Realised niche",
+        "Fundamental niche = Realised niche",
+        "a or b"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The mitochondrion is a / an",
+      "options": ["Sub-cellular organelle", "Cell", "Tissue", "Organ"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a stochastic factor?",
+      "options": [
+        "birth rate",
+        "death rate",
+        "population structure",
+        "environmental fluctuation"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management has built several artificial water holes for animals, and fills them up regularly with tankers. In the context of climate change, such an action would be called",
+      "options": ["adaptation", "mitigation", "deceleration", "maladaptation"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Birds on giraffe are an example of",
+      "options": ["colony", "commensalism", "protocooperation", "allelopathy"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "At the compensation point,",
+      "options": [
+        "photosynthesis = respiration",
+        "photosynthesis < respiration",
+        "photosynthesis > respiration",
+        "photosynthesis = 0"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "A pest population is called uncontrolled when",
+      "options": [
+        "it is increasing",
+        "it is not decreasing",
+        "it is causing some economic damage",
+        "it is causing excessive economic damage"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The impact of El Nino on fishery collapse in Peru is explained by",
+      "options": [
+        "match hypothesis",
+        "mismatch hypothesis",
+        "match-mismatch hypothesis",
+        "none of these"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is correct?",
+      "options": [
+        "The maximum sustainable yield is near the beginning of the sigmoidal curve",
+        "The maximum sustainable yield is near the mid-point of the sigmoidal curve",
+        "The maximum sustainable yield is near the end of the sigmoidal curve",
+        "None of these"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not an impact of toxic chemicals?",
+      "options": [
+        "lethal effects",
+        "sub-lethal effects",
+        "reduction of existing stressors",
+        "reduced fecundity"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "A root zone treatment plant is an example of",
+      "options": [
+        "phytoremediation",
+        "biological contro",
+        "biomagnification",
+        "bioaccumulation"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with water and a lake was created. It is now visited by several migratory birds. This is an example of",
+      "options": ["recovery", "restoration", "enhancement", "replacement"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "A deciduous forest in Madhya Pradesh was converted to a mine. After the mining operations were over, the pits were filled up with soil and species of deciduous forest planted again. This is an example of",
+      "options": ["recovery", "restoration", "enhancement", "replacement"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is correct?",
+      "options": [
+        "R + G = M + F",
+        "R + M = G + F",
+        "R + F = M + G",
+        "R + G + M + F = 0"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Ludwig's ratchet predicts",
+      "options": [
+        "decreasing harvesting rate",
+        "constant harvesting rate",
+        "increasing harvesting rate",
+        "fluctuating harvesting rate"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Macrodebris in the context of plastic debris has fragments of size",
+      "options": ["> 20 mm", "5 - 20 mm", "< 5 mm", "< 1 mm"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a climatic forcing for Earth?",
+      "options": [
+        "changes in plate tectonics",
+        "changes in Earth's orbit",
+        "changes in Sun's orbit",
+        "changes in Sun's strength"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Any changes in natural or human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead” is a definition for",
+      "options": ["adaptation", "mitigation", "maladaptation", "malmitigation"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The ability of a system to adjust to climate change (including climate variability and extremes) to moderate potential damages, to take advantage of opportunities, or to cope with the consequences” is a definition for",
+      "options": [
+        "adaptive response",
+        "adaptive capacity",
+        "mitigative response",
+        "mitigative capacity"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a climatic forcing for Earth?",
+      "options": [
+        "changes in plate tectonics",
+        "change in Earth's orbit",
+        "change in Moon's orbit",
+        "change in Sun's strength"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a principle of ecological restoration?",
+      "options": [
+        "ecological integrity",
+        "long-term sustainability",
+        "benefits and engages scientists",
+        "informed by past and future"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Mesodebris in the context of plastic debris has fragments of size",
+      "options": ["> 20 mm", "5-20 mm", "< 5 mm", "< 1 mm"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The government came up with a regulation that incandescent bulbs be replaced by LED bulbs, so that electricity consumption and release of carbon dioxide from power plants is reduced. In the context of climate change, such an action would be called",
+      "options": ["adaptation", "mitigation", "deceleration", "maladaptation"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a principle of ecological restoration?",
+      "options": [
+        "ecological integrity",
+        "short-term sustainability",
+        "benefits and engages society",
+        "informed by past and future"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "According to Malthusian mode",
+      "options": [
+        "Population grows in geometric progression, food supply increases in arithmetic progression",
+        "Population grows in geometric progression, food supply increases in geometric progression",
+        "Population grows in arithmetic progression, food supply increases in arithmetic progression",
+        "Population grows in arithmetic progression, food supply increases in geometric progression"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a pillar of sustainability?",
+      "options": [
+        "environmental sustainability",
+        "economic sustainability",
+        "economic sustainability",
+        "social sustainability"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The quantum of human impacts is given by",
+      "options": [
+        "I = P x A x T",
+        "I = P + A + T",
+        "I = P + A - T",
+        "I = P - (A + T)"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a positive check according to Malthus?",
+      "options": ["late marriage", "war", "celibacy", "moral restraint"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a pillar of sustainability",
+      "options": [
+        "social sustainability",
+        "industrial sustainability",
+        "agricultural sustainability",
+        "trans-boundary sustainability"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "___ is used to identify which potential impacts are relevant to assess. (Fill in the blank)",
+      "options": ["screening", "scoping", "reporting", "review"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "___ determines which projects or developments require a full or partial impact assessment study. (Fill in the blank)",
+      "options": ["screening", "scoping", "reporting", "review"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The demographic transition sees a society move from",
+      "options": [
+        "high birth rate, low death rate to low birth rate, low death rate",
+        "ow birth rate, high death rate to low birth rate, low death rate",
+        "high birth rate, high death rate to low birth rate, low death rate",
+        "high birth rate, high death rate to low birth rate, high death rate"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a preventive check according to Malthus?",
+      "options": ["foresight", "vice", "misery", "flood"],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
