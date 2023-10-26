@@ -2,13 +2,23 @@
   "questions": [
     {
       "question": "Which of these is not a step in natural selection?",
-      "options": ["variation", "underpopulation", "struggle for existence", "survival of the fittest"],
+      "options": [
+        "variation",
+        "underpopulation",
+        "struggle for existence",
+        "survival of the fittest"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Which of these is not a characteristic of fitness?",
-      "options": ["Fitness is environment-specific.", "Fitness is species-specific.", "Higher reproductive rate means higher fitness.", "Fitness should be measured across several generations"],
+      "options": [
+        "Fitness is environment-specific.",
+        "Fitness is species-specific.",
+        "Higher reproductive rate means higher fitness.",
+        "Fitness should be measured across several generations"
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -20,7 +30,12 @@
     },
     {
       "question": "Which of these is not a characteristic of fitness?",
-      "options": ["Fitness is environment-specific.", "Fitness is species-specific.", "Fitness works on traits such as size and speed.", "Fitness should be measured across several generations."],
+      "options": [
+        "Fitness is environment-specific.",
+        "Fitness is species-specific.",
+        "Fitness works on traits such as size and speed.",
+        "Fitness should be measured across several generations."
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -80,7 +95,12 @@
     },
     {
       "question": "There is more biodiversity in areas with",
-      "options": ["less competition, less predation", "less competition, more predation", "more competition, more predation", "more competition, less predation"],
+      "options": [
+        "less competition, less predation",
+        "less competition, more predation",
+        "more competition, more predation",
+        "more competition, less predation"
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -92,19 +112,34 @@
     },
     {
       "question": "\"the diversity that exists within an ecosystem\" is",
-      "options": ["alpha (α) biodiversity", "beta (β) biodiversity", "gamma (γ) biodiversity", "delta (δ) biodiversity"],
+      "options": [
+        "alpha (α) biodiversity",
+        "beta (β) biodiversity",
+        "gamma (γ) biodiversity",
+        "delta (δ) biodiversity"
+      ],
       "correctOption": 0,
       "points": 10
     },
     {
       "question": "\"the diversity that exists among different geographies\" is",
-      "options": ["alpha (α) biodiversity", "beta (β) biodiversity", "gamma (γ) biodiversity", "delta (δ) biodiversity"],
+      "options": [
+        "alpha (α) biodiversity",
+        "beta (β) biodiversity",
+        "gamma (γ) biodiversity",
+        "delta (δ) biodiversity"
+      ],
       "correctOption": 2,
       "points": 10
     },
     {
       "question": "The emergent principle can be stated as",
-      "options": ["Whole = sum of parts", "Whole < sum of parts", "Whole > sum of parts", "None of these"],
+      "options": [
+        "Whole = sum of parts",
+        "Whole < sum of parts",
+        "Whole > sum of parts",
+        "None of these"
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -140,7 +175,12 @@
     },
     {
       "question": "Harmonious interactions occur where",
-      "options": ["at least one participant is benefited", "at least one participant is unharmed", "both participants are benefitted", "both participants are unharmed"],
+      "options": [
+        "at least one participant is benefited",
+        "at least one participant is unharmed",
+        "both participants are benefitted",
+        "both participants are unharmed"
+      ],
       "correctOption": 3,
       "points": 10
     },
@@ -152,19 +192,34 @@
     },
     {
       "question": "The interaction between exotic shrubs and trees through the action of seed predators is an example of",
-      "options": ["infraspecific competition", "apparent competition", "disguised competition", "harmonious competition"],
+      "options": [
+        "infraspecific competition",
+        "apparent competition",
+        "disguised competition",
+        "harmonious competition"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Trampling of grass due to the movement of animals is an example of",
-      "options": ["mutualism", "amensalism", "commensalism", "protocooperation"],
+      "options": [
+        "mutualism",
+        "amensalism",
+        "commensalism",
+        "protocooperation"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "The scientific study of animal behaviour is called",
-      "options": ["behaviourism", "ecology", "ethology", "prey-predator dynamics"],
+      "options": [
+        "behaviourism",
+        "ecology",
+        "ethology",
+        "prey-predator dynamics"
+      ],
       "correctOption": 2,
       "points": 10
     },
@@ -188,7 +243,12 @@
     },
     {
       "question": "Trees → Birds → Parasites → Hyperparasites represents",
-      "options": ["upright pyramid of numbers", "inverted pyramid of numbers", "spindle pyramid of numbers", "dumb-bell pyramid of numbers"],
+      "options": [
+        "upright pyramid of numbers",
+        "inverted pyramid of numbers",
+        "spindle pyramid of numbers",
+        "dumb-bell pyramid of numbers"
+      ],
       "correctOption": 1,
       "points": 10
     },
@@ -200,43 +260,458 @@
     },
     {
       "question": "At the compensation point",
-      "options": ["photosynthesis = respiration", "photosynthesis < respiration", ". photosynthesis > respiration", "photosynthesis = 0"],
+      "options": [
+        "photosynthesis = respiration",
+        "photosynthesis < respiration",
+        ". photosynthesis > respiration",
+        "photosynthesis = 0"
+      ],
       "correctOption": 0,
       "points": 10
     },
     {
       "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. As we move up the food chain,",
-      "options": ["available energy decreases", "available energy increases", "available energy remains same", "available energy is zero everywhere"],
+      "options": [
+        "available energy decreases",
+        "available energy increases",
+        "available energy remains same",
+        "available energy is zero everywhere"
+      ],
       "correctOption": 0,
       "points": 10
     },
     {
       "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain",
-      "options": ["more number of hawks than grasshoppers can be supported", "more number of grasshoppers than hawks can be supported", "equal number of hawks and grasshoppers can be supported", "none of these"],
+      "options": [
+        "more number of hawks than grasshoppers can be supported",
+        "more number of grasshoppers than hawks can be supported",
+        "equal number of hawks and grasshoppers can be supported",
+        "none of these"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Tree → Frugivorous birds → Hawk represents",
-      "options": ["upright pyramid of numbers", "inverted pyramid of numbers", "spindle pyramid of numbers", "dumb-bell pyramid of numbers"],
+      "options": [
+        "upright pyramid of numbers",
+        "inverted pyramid of numbers",
+        "spindle pyramid of numbers",
+        "dumb-bell pyramid of numbers"
+      ],
       "correctOption": 2,
       "points": 10
     },
     {
       "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain,",
-      "options": ["hawk is producer", "hawk is consumer and carnivore", "hawk is consumer and herbivore", "hawk is decomposer"],
+      "options": [
+        "hawk is producer",
+        "hawk is consumer and carnivore",
+        "hawk is consumer and herbivore",
+        "hawk is decomposer"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Glacial lakes are typical examples of",
-      "options": ["eutrophic lakes", "hypereutrophic lake", "oligotrophic lakes", "mesotrophic lakes"],
+      "options": [
+        "eutrophic lakes",
+        "hypereutrophic lake",
+        "oligotrophic lakes",
+        "mesotrophic lakes"
+      ],
       "correctOption": 2,
       "points": 10
     },
     {
       "question": "Consider the food chain: Grass → Grasshopper → Frog → Snake → Hawk. In this food chain,",
-      "options": ["frog is producer", "frog is consumer and carnivore", "frog is consumer and herbivore", "frog is decomposer"],
+      "options": [
+        "frog is producer",
+        "frog is consumer and carnivore",
+        "frog is consumer and herbivore",
+        "frog is decomposer"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The juvenile mortality rate is the annual number of deaths of juveniles per",
+      "options": [
+        "100 births",
+        "1000 births",
+        "100 live births",
+        "1000 live births"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Pan traps are used for sampling",
+      "options": [
+        "bees",
+        "butterflies",
+        "non-pollinator insects",
+        "pollinator insects"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "___ employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.",
+      "options": [
+        "Simple random sampling",
+        "Systematic sampling",
+        "Stratified sampling",
+        "Multistage sampling"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a measure of absolute population density?",
+      "options": [
+        "total count",
+        "pelt count",
+        "capture-recapture method",
+        "removal method"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The logistic growth equation, when plotted, appears",
+      "options": ["I shaped", "J shaped", "S shaped", "O shaped"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as",
+      "options": [
+        "Simple random sampling",
+        "Systematic sampling",
+        "Stratified sampling",
+        "Multistage sampling"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The minimum replacement level fertility for a population to grow should be greater than",
+      "options": ["1", "2", "3", "4"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Cover board surveys are typically used for sampling",
+      "options": ["herpetofauna", "fishes", "large mammals", "carnivores"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is true?",
+      "options": [
+        "Physiological longevity > Ecological longevity",
+        "Physiological longevity = Ecological longevity",
+        "Physiological longevity < Ecological longevity",
+        "a or b"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "___ is how close the measured values are to the correct value.",
+      "options": ["Accuracy", "Precision", "Bias", "Variance"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Importance value can be written as",
+      "options": [
+        "Relative density + Relative frequency X Relative dominance",
+        "Relative density X Relative frequency + Relative dominance",
+        "Relative density + Relative frequency + Relative dominance",
+        "Relative density X Relative frequency X Relative dominance"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "A species found most frequently in a particular community, but also present occasionally in others is called",
+      "options": [
+        "accidental species",
+        "indifferent species",
+        "selective species",
+        "exclusive species"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "When compared to generalist species, specialist species have",
+      "options": [
+        "narrower niches",
+        "broader niches",
+        "same-size niches",
+        "none of these"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "A climax caused by wildfires is an example of",
+      "options": [
+        "climatic climax",
+        "edaphic climax",
+        "disclimax",
+        "catastrophic climax"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Lithosere is an example of",
+      "options": ["hydrosere", "xerosere", "psammosere", "halosere"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is correct?",
+      "options": [
+        "Fundamental niche > Realised niche",
+        "Fundamental niche = Realised niche",
+        "Fundamental niche < Realised niche",
+        "a or b"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Importance value varies from",
+      "options": ["0 to 10", "0 to 50", "0 to 100", "0 to 300"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The climax near Tindni village is being controlled by disturbance by cattle. This is an example of",
+      "options": [
+        "climatic climax",
+        "edaphic climax",
+        "disclimax",
+        "catastrophic climax"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a characteristic of pioneer species",
+      "options": [
+        "ability to grow on bare rocks",
+        "ability to tolerate extreme temperatures",
+        "large size",
+        "short life span"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of these depicts correctly the lithosere primary succession?",
+      "options": [
+        "Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax",
+        "Rock → Foliose lichen → Crustose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax",
+        "Moss → Crustose lichen → Foliose lichen → Rock → Herbaceous stage → Shrub → Woodland → Climax",
+        "Rock → Crustose lichen → Foliose lichen → Shrub → Herbaceous stage → Moss → Woodland → Climax"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "\"The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance.\" This is the statement for",
+      "options": [
+        "Liebig’s law of the minimum",
+        "Liebig’s law of the maximum",
+        "Shelford’s law of tolerance",
+        "Shelford’s law of intolerance"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Transplantation experiments are used to find",
+      "options": [
+        "potential range",
+        "effective range",
+        "actual range",
+        "economic range"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Good climate is a",
+      "options": [
+        "chemical factor",
+        "demographic factor",
+        "push factor",
+        "pull factor"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"The rate of any biological process is limited by that factor in least amount relative to requirement, so there is a single limiting factor.\" This is the statement for",
+      "options": [
+        "Liebig’s law of the minimum",
+        "Liebig’s law of the maximum",
+        "Shelford’s law of tolerance",
+        "Shelford’s law of intolerance"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about",
+      "options": ["autophagy", "allelophagy", "autopathy", "allelopathy"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "\"Quick movement over large distances, often across unsuitable terrain\" is a description of",
+      "options": [
+        "diffusion",
+        "secular dispersal",
+        "jump dispersal",
+        "drifting"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called",
+      "options": ["translocation", "migration", "dispersal", "drifting"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The movement of lions across the Gir landscape is an example of",
+      "options": [
+        "diffusion",
+        "secular dispersal",
+        "jump dispersal",
+        "drifting"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is not a physical factor of habitat?",
+      "options": ["soil", "moisture", "predators", "temperature"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Scarcity of food is a",
+      "options": [
+        "chemical factor",
+        "demographic factor",
+        "push factor",
+        "pull factor"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The “subset of physical and biotic environmental factors that permit an animal (or plant) to survive and reproduce” is the definition of",
+      "options": ["habitat", "ecosystem", "biome", "biosphere"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "According to Leopold, which of these is not a tool of habitat management?",
+      "options": ["fire", "gun", "cattle", "sickle"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Zoo is an example of",
+      "options": [
+        "in-situ conservation",
+        "ex-situ conservation",
+        "in-situ preservation",
+        "ex-situ preservation"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The acronym HIPPO does not include",
+      "options": [
+        "habitat loss",
+        "invasive species",
+        "pollination",
+        "pollution"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "We prefer those areas for the creation of a conservation reserve where the level of threat is",
+      "options": ["very high", "medium", "very low", "non-existent"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a deterministic factor?",
+      "options": [
+        "environmental variation",
+        "forest fire",
+        "death rate",
+        "diseases"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Captive breeding is an example of",
+      "options": [
+        "in-situ conservation",
+        "ex-situ conservation",
+        "in-situ preservation",
+        "ex-situ preservation"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of these is a stochastic factor?",
+      "options": [
+        "birth rate",
+        "death rate",
+        "population structure",
+        "environmental fluctuation"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which of these correctly represents the process of habitat fragmentation and loss?",
+      "options": [
+        "Original forest → Dissection → Perforation → Fragmentation → Attrition",
+        "Original forest → Dissection → Attrition → Fragmentation → Perforation",
+        "Original forest → Dissection → Perforation → Attrition → Fragmentation",
+        "Original forest → Dissection → Fragmentation → Perforation → Attrition"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The acronym HIPPO does not include",
+      "options": [
+        "habitat loss",
+        "habitat enhancement",
+        "invasive species",
+        "human over-population"
+      ],
       "correctOption": 1,
       "points": 10
     },

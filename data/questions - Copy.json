@@ -1,17 +1,65 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
+      "question": "The juvenile mortality rate is the annual number of deaths of juveniles per",
+      "options": ["100 births", "1000 births", "100 live births", "1000 live births"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Pan traps are used for sampling",
+      "options": ["bees", "butterflies", "non-pollinator insects", "pollinator insects"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "___ employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.",
+      "options": ["Simple random sampling", "Systematic sampling", "Stratified sampling", "Multistage sampling"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "question": "Which of these is not a measure of absolute population density?",
+      "options": ["total count", "pelt count", "capture-recapture method", "removal method"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The logistic growth equation, when plotted, appears",
+      "options": ["I shaped", "J shaped", "S shaped", "O shaped"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as",
+      "options": ["Simple random sampling", "Systematic sampling", "Stratified sampling", "Multistage sampling"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The minimum replacement level fertility for a population to grow should be greater than",
+      "options": ["1", "2", "3", "4"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Cover board surveys are typically used for sampling",
+      "options": ["herpetofauna", "fishes", "large mammals", "carnivores"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of these is true?",
+      "options": ["Physiological longevity > Ecological longevity", "Physiological longevity = Ecological longevity", "Physiological longevity < Ecological longevity", "a or b"],
       "correctOption": 3,
       "points": 10
-    }
+    },
+    {
+      "question": "___ is how close the measured values are to the correct value.",
+      "options": ["Accuracy", "Precision", "Bias", "Variance"],
+      "correctOption": 3,
+      "points": 10
+    },
     
   ]
 }

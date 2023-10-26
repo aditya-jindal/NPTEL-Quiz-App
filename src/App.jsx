@@ -30,12 +30,12 @@ const reducer = function (state, action) {
       return {
         ...state,
         numQuestions: action.payload,
-        questions: shuffleArray(state.allQuestions.slice(0, action.payload)),
+        questions: shuffleArray(state.allQuestions).slice(0, action.payload),
       };
     case "dataRetrieved":
       return {
         ...state,
-        questions: action.payload,
+        questions: shuffleArray(action.payload).slice(0, 50),
         allQuestions: action.payload,
         status: "ready",
       };
@@ -134,7 +134,7 @@ function App() {
         // const res = await fetch("http://localhost:9000/questions");
         // if (!res.ok) throw new Error("error in fetching data");
         // const data = await res.json();
-        const quesData = shuffleArray(data.questions);
+        const quesData = data.questions;
         dispatch({ type: "dataRetrieved", payload: quesData });
       } catch (err) {
         dispatch({ type: "dataRetrievalFailed", payload: err });
