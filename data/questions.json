@@ -422,7 +422,7 @@
     {
       "question": "___ is how close the measured values are to the correct value.",
       "options": ["Accuracy", "Precision", "Bias", "Variance"],
-      "correctOption": 3,
+      "correctOption": 0,
       "points": 10
     },
     {
