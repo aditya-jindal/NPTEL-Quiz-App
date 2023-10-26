@@ -14,7 +14,7 @@ function Question({ question, dispatch, userAnswer }) {
                ${i === userAnswer-1 && "answer"}`}
             disabled={(userAnswer)}
             onClick={() => dispatch({ type: "submitAns", payload: i })}
-            key={option+i}
+            key={question.question+option}
           >
             {option}
           </button>
