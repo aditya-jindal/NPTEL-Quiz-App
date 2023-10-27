@@ -49,6 +49,16 @@ body {
   gap: 2rem;
 }
 
+@media (max-width: 768px) {
+  .main{
+    width:90vw;
+  }
+  .app-header{
+    width: 90vw;
+  }
+}
+
+
 .error {
   text-align: center;
   font-size: 1.6rem;
@@ -65,12 +75,13 @@ img {
 h1 {
   font-family: 'Codystar';
   font-size: 5.6rem;
-  
+  text-align: center;
 }
 
 h2 {
   font-size: 3.6rem;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 h3 {
@@ -88,6 +99,7 @@ h4 {
   font-size: 2.2rem;
   font-weight: 600;
   margin-bottom: 2.4rem;
+  text-align: center;
 }
 
 .numQuestions{
